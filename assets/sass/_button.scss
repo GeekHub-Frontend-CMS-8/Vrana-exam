@@ -1,0 +1,12 @@
+@import "variables";
+
+.btn {
+  padding: 21px 31px 18px;
+  background-color: $secondary-color;
+  border: 1px solid $secondary-color;
+  color: #ffffff;
+  font-size: 12px;
+  font-weight: 700;
+  text-transform: uppercase;
+  letter-spacing: 1.8px;
+}

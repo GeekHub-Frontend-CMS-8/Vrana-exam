@@ -1,0 +1,14 @@
+@import "variables";
+
+.social-icons {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  color: $primary-color;
+  }
+
+.social-icons-element {
+  width: 20px;
+  height: 21px;
+ margin: 25px 15px;
+}

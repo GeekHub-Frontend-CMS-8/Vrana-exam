@@ -1,0 +1,22 @@
+$primary-font-family: 'Lato', Helvetica, sans-serif;
+$secondary-font-family: 'Montserrat', Helvetica, sans-serif;
+$logo-font-family: 'Damion', Helvetica, sans-serif;
+
+$primary-font-weight: 700;
+$secondary-font-weight: 400;
+
+$primary-color: #ffffff;
+$secondary-color: #16a085;
+
+
+@font-face {
+  font-family: 'Gotham Rounded Book', sans-serif;
+  src: url('/../fonts/Gotham Rounded Bold.otf');
+  src: local('Gotham Rounded Bold'), local('Gotham Rounded-Bold'),
+  url('/../fonts/BrandonGrotesque-Bold.eot?#iefix') format('embedded-opentype'),
+  url('/../fonts/BrandonGrotesque-Bold.woff') format('woff'),
+  url('/../fonts/BrandonGrotesque-Bold.ttf') format('truetype');
+  font-weight: bold;
+  font-style: normal;
+}
+

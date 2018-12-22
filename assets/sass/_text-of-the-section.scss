@@ -1,0 +1,28 @@
+@import "variables";
+
+.text-of-the-section {
+  max-width: 428px;
+  padding: 113px 0 110px;
+}
+
+h3 {
+  color: #16a085;
+  font-size: 18px;
+  line-height: 24px;
+  font-weight: 700;
+  text-transform: uppercase;
+  letter-spacing: 2.7px;
+}
+
+p {
+  padding: 49px 0 47px;
+  color: #373737;
+  //font-family: "Gotham Rounded - Book";
+  font: 400 12px/24px;
+  line-height: 24px;
+}
+
+  span {
+    font-weight: 700;
+    letter-spacing: 1.8px;
+  }
